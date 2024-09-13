@@ -1,0 +1,5 @@
+...<vishnu>...
+New branch is created.
+git init -> initialize repository.
+git checkout -b feature-branch -> switch to feature branch.
+
